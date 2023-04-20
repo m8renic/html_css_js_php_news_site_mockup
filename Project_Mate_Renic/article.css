@@ -1,0 +1,134 @@
+.wrapper1{
+    background-color: black;
+    width: 100%;
+}
+
+.wrapper2{
+    background-color: grey;
+    width: 100%;
+}
+
+.wrapper3{
+    background-color: red;
+    width: 100%;
+}
+
+.wrapper4{
+    background-color: #ffc800;
+    width: 100%;
+}
+
+#h1{
+    font-size: 40px;
+    z-index: 0;
+    margin-top: 30px;
+    background-image: linear-gradient( to right ,white, transparent)
+}
+
+.h2{
+    font-size: 30px;
+    position: relative;
+    top: 0px;
+}
+
+#menu{
+	overflow: hidden;
+	height: 100px;
+}
+
+#menu ul {
+	margin: 0px;
+    margin-top: 20px;
+	padding: 0px 0px 0px 0px;
+	list-style: none;
+	line-height: normal;
+	text-align: center;
+}
+
+#menu li {
+	display: inline-block;
+    background-color: black;
+    padding: 0px;
+}
+
+#menu a {
+	display: block;
+	letter-spacing: 1px;
+	padding: 0px 40px;
+	text-decoration: none;
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 0.80em;
+	line-height: 60px;
+	border: none;
+	color: #FFF;
+}
+
+#menu a:hover, #menu .current_page_item a {
+	text-decoration: none;
+}
+
+#menu li:hover{
+    background-color: dimgrey;
+}
+
+#menu li:active{
+    background-color: grey;
+}
+
+.backgroundBox{
+    width: 100%;
+    margin-top: 20px;
+}
+
+.goTemp{
+    display: block;
+    text-align: center;
+    font-size: 16px;
+    padding: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    color: white;
+    background-color: black;
+    border: 1px solid black;
+    text-decoration: none;
+}
+
+.goTemp:hover{
+    display: block;
+    text-align: center;
+    font-size: 16px;
+    padding: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    color: white;
+    background-color: dimgrey;
+    border: 1px solid dimgrey;
+    text-decoration: none;
+}
+
+.goTemp:active{
+    display: block;
+    text-align: center;
+    font-size: 16px;
+    padding: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    color: white;
+    background-color: grey;
+    border: 1px solid grey;
+    text-decoration: none;
+}
+
+.mt{
+    margin-top: 10px;
+}
+
+.psize{
+    font-size: 14px;
+}
+
+hr{
+    background-color: white; 
+    width: 100%;
+}
