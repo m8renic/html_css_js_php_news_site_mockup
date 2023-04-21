@@ -1,4 +1,4 @@
-Folder imena Projekt_Mate_Renic sadrži projekt koji je potrebno staviti u htdocs XAMPP-a.
+Folder imena Project_Mate_Renic sadrži projekt koji je potrebno staviti u htdocs XAMPP-a.
 
 Za pokretanje projekta i sve funkcionalnosti potrebno je uključiti Apache i MySQL module.
 
